@@ -26,6 +26,10 @@ It is difficult to acquire the English version so I recomment the German languag
 
 Describes methods of problem solving.
 
+- **Algorithms and Automatic Computing Machines** by B. A. Trakhtenbrot
+
+Describes concepts in theory of computation.
+
 ### Martin Gardner
 
 - **The SCIENTIFIC AMERICAN book of Mathematical Puzzles & Diversions** by Martin Gardner
