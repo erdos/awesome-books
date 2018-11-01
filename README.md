@@ -8,6 +8,7 @@ These are my favourite books I purhased from Amazon last year.
 - **The Clean Coder: A Code of Conduct for Professional Programmers** by Robert C. Martin
 - **Release It! - Design and Deploy Production-Ready Software** by Michael T. Nygard
 - **Designing Data-Intensive Applications** by Martin Kleppmann
+- **Patterns, Principles, and Practices of Domain-Driven Design** by Scott Millett, Nick Tune
 
 ## Programming
 
