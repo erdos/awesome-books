@@ -9,6 +9,7 @@ These are my favourite books I purhased from Amazon last year.
 - **Release It! - Design and Deploy Production-Ready Software** by Michael T. Nygard
 - **Designing Data-Intensive Applications** by Martin Kleppmann
 - **Patterns, Principles, and Practices of Domain-Driven Design** by Scott Millett, Nick Tune
+- **Technically Wrong** by Sara Wachter-Boettcher
 
 ## Programming
 
