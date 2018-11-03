@@ -28,6 +28,7 @@ It is difficult to acquire the English version so I recomment the German languag
 
 Describes methods of problem solving.
 
+- **I Am a Strange Loop** by Douglas Hofstadter
 - **Algorithms and Automatic Computing Machines** by B. A. Trakhtenbrot
 
 Describes concepts in theory of computation.
